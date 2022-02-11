@@ -1,6 +1,4 @@
 #Andrew Christian
-#CMSC 206-23832
-#Project 3B
 #10/10/2021
 
 #james.maddison@constitution.gov
